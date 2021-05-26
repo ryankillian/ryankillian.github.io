@@ -4,8 +4,8 @@
 
 # Coffeebibber books
 
-1. [Hamlet](http://coffeebibber/macbeth)
-2. [King James Bible](http://coffeebibber/bible) (not complete yet)
+1. [Hamlet](https://coffeebibber/macbeth)
+2. [King James Bible](https://coffeebibber/bible) (not complete yet)
 
 # Next up for Coffeebibber
 
