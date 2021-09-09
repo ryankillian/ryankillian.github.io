@@ -9,6 +9,5 @@
 
 # Next up for Coffeebibber
 
-1. Romeo and Juliet
-2. King Lear
+More ...
 
